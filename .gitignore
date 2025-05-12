@@ -27,8 +27,7 @@ ENV/
 # Environment Variables
 .env
 
-# Output
-alien_ceramics*/
+# Logs
 logs/
 
 # IDE
